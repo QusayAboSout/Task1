@@ -1,0 +1,28 @@
+
+Q1.
+
+    a. git status: To show on which stage I'm now, which files got changes.
+
+    b. git init: The first command I need to write it that make my project as git repository.
+
+    c. git commit: To save the last changes on my project and also allow me to write a note. 
+
+    d. git push: To move my changes from local repository to my (remote) repository in github.
+
+
+Q2.
+
+    I agree with him in case I'm working alone, but as a team member I disagree because I need to include each modified
+        files in a commits so that can help them to know what exactly happen in each file I make a changes on it.
+
+
+Q3.
+
+    a. GitLab and Bitbucket.
+
+    b. I don't have any idea.
+
+    c. True
+
+Q4.
+
