@@ -1,3 +1,7 @@
+git log : To show all all commit's 
+
+git checkout xxxxxx : It's used to go to the specfic commit, xxxxx -> it's the commit ssh number
+
 
 Q1.
 
@@ -26,3 +30,36 @@ Q3.
 
 Q4.
 
+    The -u in git push -u origin master it's like allow me to use the git push in the next by just write git push without -u orgin master.
+
+
+
+
+Partical Part:-
+
+    Steps for using SSH protocol insted of HTTPS :-
+        In a few words, I don't see any different between using SSH or HTTPS, 
+
+    A- On local Side:
+        1- 'git init' to Initialize a new repo.
+        2- 'git add .' to add the my files Then I need to use a 'git commit -m "Initial commit"' command to move to the next stage,
+
+    B- On GitHub
+        1- Create a GitHub Repo
+        2- From My GitHub repo page I can take the SSH url
+        3- Then I need to use this command 'git remote add origin <SSH_REPOSITORY_URL>' to link my local repo to the github repo.
+        4- 'git push -u origin main' to upload my nuclear bomb in GitHub. :).
+
+
+
+
+And just like this -_-,
+
+Thx a lot for this amazing course, and I hope this will not be the last time,
+See you,
+
+
+I'm looking for a job as mobile developer (flutter) or as backend developer (ASP.NET core web API) with just 1000 shekel on month or any salary,
+    I just need to get experiance with a little amout of money.
+
+I'm sorry for the last 2 line.
